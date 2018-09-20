@@ -1,4 +1,12 @@
-# Segunda practica con JPA
+# JPA Ejemplo 2
 
-# # En este ejemplo veremos como generar Id automaticos, randoms, predefinidos y algunos metodos mas. 
-# # Haciendo uso de JPA. Es necesario crear previamente la base de datos y hacer la conexion previamente por medio de Application.properties de Spring Boot
+## En este ejemplo veremos los generadores que entre ellso estan:
+### Id Automaticos
+### Randoms
+### Predefinidos
+### Update
+### Custom Generator
+### Table Strategy
+### Create Entity
+
+## Es necesario crear una DB previamente, por elo adjunto una query para crear la misma. 
